@@ -1,0 +1,11 @@
+// components/PlayerCard/PlayerCard.scss
+.player-card {
+  width: 100px;
+  height: 150px;
+  background-color: #ccc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}

@@ -1,0 +1,21 @@
+// components/ConferenceSection/ConferenceSection.scss
+.conference-section {
+  color: white;
+  text-align: center;
+  flex: 1;
+
+  .conference-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+
+  .position-section {
+    margin-bottom: 20px;
+
+    .player-grid {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+  }
+}

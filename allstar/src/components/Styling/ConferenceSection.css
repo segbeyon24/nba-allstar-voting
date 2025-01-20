@@ -1,0 +1,14 @@
+.conference-section {
+    flex: 1;
+  }
+  
+  .player-category {
+    margin-bottom: 20px;
+  }
+  
+  .player-grid {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  

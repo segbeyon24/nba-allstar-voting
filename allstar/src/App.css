@@ -1,0 +1,43 @@
+/* .container {
+  text-align: center;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.regions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.region {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.position {
+  margin-bottom: 10px;
+}
+
+.submit-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #001f3f;
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
